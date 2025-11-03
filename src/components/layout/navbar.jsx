@@ -18,10 +18,10 @@ export default function Navbar() {
         {/* Left: Logo / Name */}
         <Link
           href="/"
-          aria-label="Shams Ali - Home"
+          aria-label="Akshay Kharat - Home"
           className="text-xl font-semibold tracking-wide text-gray-900 hover:text-gray-900 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gray-300 rounded"
         >
-          Shams Ali
+          Akshay Kharat
         </Link>
 
         {/* Right: Desktop links */}
